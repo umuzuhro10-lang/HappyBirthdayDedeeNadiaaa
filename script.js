@@ -68,18 +68,30 @@ musicBtn.onclick = () => {
 
 const message = `Hallooo Dedee, Happy Birthday yaa! 🥳🎂💛
 
+
 Hari ini waktu kembali menitipkan satu angka baru di usiamu. 
+
 Semoga angka itu bukan sekedar tentang bertambahnya usia, 
+
 tapi tentang semakin banyak hal yang akhirnya kamu mengerti bahwa tidak semua yang pergi adalah kehilangan,
+
 tidak semua yang tertunda adalah kegagalan,
+
 dan tidak semua jalan yang berbelok berarti kamu tersesat.
+
 Semoga langkahmu di usia ini menemukan banyak persinggahan yang baik.
+
 Semoga yang patah perlahan pulih, yang hilang diganti dengan sesuatu yang lebih berarti
+
 dan yang sedang kamu perjuangkan akhirnya menemukan jalan pulang kepadamu.
+
 Tetaplah jadi Nadia yang punya caranya sendiri untuk tetap bersinar.
+
 Tak perlu paling terang, asal cukup untuk menerangi jalanmu sendiri.
 
+
 Selamat bertambah usia. Semoga sehat selalu dan panjang umur.
+
 Salam manis dari kaka AWOKAWOKAOWK`;
 
 let i = 0;
