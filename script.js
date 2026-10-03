@@ -66,14 +66,21 @@ musicBtn.onclick = () => {
 
 };
 
-const message = `Hallooo sayangkuuu, Happy Birthday yaa! 🥳🎂💛
+const message = `Hallooo Dedee, Happy Birthday yaa! 🥳🎂💛
 
-Semoga di umur yang baru ini kamu selalu sehattt, bahagiaaa, dan semua impianmu tercapai.
-Teruslah jdi orang baikkk dan jadii diri sendiriii. Semoga makin ganteng (walaupun udah gantengnya kebangetan 🤭), makin sukses, dan makin sayang sama aku yaa. 
-Jangan nakal, jangan sering begadang, pokoknya jaga kesehatan, jangan telat makan, dan tetap semangat menjalani hari-harimu.
-dannn yg terakhir smoga tahun ini penuh dengan kebahagiaan, rezeki yang lancar, dan banyak momen indah. Aamiin.
+Hari ini waktu kembali menitipkan satu angka baru di usiamu. 
+Semoga angka itu bukan sekedar tentang bertambahnya usia, 
+tapi tentang semakin banyak hal yang akhirnya kamu mengerti bahwa tidak semua yang pergi adalah kehilangan,
+tidak semua yang tertunda adalah kegagalan,
+dan tidak semua jalan yang berbelok berarti kamu tersesat.
+Semoga langkahmu di usia ini menemukan banyak persinggahan yang baik.
+Semoga yang patah perlahan pulih, yang hilang diganti dengan sesuatu yang lebih berarti
+dan yang sedang kamu perjuangkan akhirnya menemukan jalan pulang kepadamu.
+Tetaplah jadi Nadia yang punya caranya sendiri untuk tetap bersinar.
+Tak perlu paling terang, asal cukup untuk menerangi jalanmu sendiri.
 
-Peluk, cium, dan sayang yang banyak buat kamu! love u Muahhh! 😚💗`;
+Selamat bertambah usia. Semoga sehat selalu dan panjang umur.
+Salam manis dari kaka AWOKAWOKAOWK`;
 
 let i = 0;
 
